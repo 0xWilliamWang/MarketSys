@@ -1,0 +1,3 @@
+# SuperMarketManagemantSystem
+一个使用Qt框架开发的超市商品管理软件
+使用Qt提供的MVC开发模式
